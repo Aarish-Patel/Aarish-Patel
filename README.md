@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Aarish-Patel/Aarish-Patel/blob/main/assets/robotic-arm.gif?raw=true" alt="Robotic Arm" width="1200"/>
-</div>
-
+![MasterHead](https://wallpapercave.com/wp/wp6830287.gif)
 
 <h1 align="center">Hi 👋, I'm Aarish Patel</h1>
 <h3 align="center">Mechatronics Engineering Undergraduate | Team Lead at Mars Rover Manipal | Robotics & Electronics Enthusiast</h3>
