@@ -39,25 +39,28 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c.svg" alt="Embedded C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="assembly" width="40" height="40"/>
+  <span style="display:inline-block; background:#333;color:white; padding:6px 8px; border-radius:5px; margin-right:5px;">Embedded C</span>
+  <span style="display:inline-block; background:#333;color:white; padding:6px 8px; border-radius:5px;">Assembly</span>
 </p>
 
 <p align="left">
   <!-- Technologies & Tools -->
   <b>Technologies & Tools:</b>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS2" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="RTOS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="MoveIt2" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="RTOS" width="40" height="40"/>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="40" height="40"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/esp-idf/esp-idf-original.svg" alt="ESP-IDF" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/RViz_logo.png" alt="RViz" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Gazebo_logo.png" alt="Gazebo" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ardupilot-logo.svg" alt="ArduPilot" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ltspice-icon.svg" alt="LTSpice" width="40" height="40"/>
 </p>
-
-
 
 ---
 
