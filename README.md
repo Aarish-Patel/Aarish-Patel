@@ -48,7 +48,7 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
   <a href="https://idf.espressif.com/" target="_blank"><img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="ESP-IDF" width="40" height="40"/></a>
   <a href="https://github.com/ros-visualization/rviz" target="_blank"><img src="https://index.ros.org/assets/repo.png" alt="RViz" width="40" height="40"/></a>
   <a href="https://gazebosim.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzrH7OBL69HKdtiBr0FfvMhdId-JNhbO6og&s" alt="Gazebo" width="40" height="40"/></a>
-  <a href="https://ardupilot.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwEfzcc4ExBYlCMvBnYVac8arU-0bafB96A&s" alt="ArduPilot" width="40" height="40"/></a>
+ </a> <a href="https://ardupilot.org/" target="_blank"><img src="https://firmware.ardupilot.org/Tools/Logos/ArduPilot-Cleaned-Transparent.png" alt="ArduPilot" width="40" height="40"/></a>
   <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwEfzcc4ExBYlCMvBnYVac8arU-0bafB96A&s" alt="LTSpice" width="40" height="40"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS2" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
