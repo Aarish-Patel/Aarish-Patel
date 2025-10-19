@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarish Patel</h1>
-<h3 align="center">ECE Undergraduate | Robotics & Electronics Enthusiast | Embedded Systems & Control Systems Developer</h3>
+<h3 align="center">Mechatronics Engineering Undergraduate | Team Lead at Mars Rover Manipal | Robotics & Electronics Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aarishpatel&label=Profile%20views&color=0e75b6&style=flat" alt="aarishpatel" />
@@ -10,20 +10,21 @@
 ## 🚀 About Me
 I am passionate about **robotics, embedded systems, and electronics**. I enjoy designing autonomous systems, programming control algorithms, and integrating sensors and hardware for robotic applications.  
 
-- 🔭 Currently working on **Mars Rover Manipal projects**: drive system, robotic arm automation, and LoRa communication modules.  
-- 🌱 Learning **advanced control systems, ROS2, robotics automation, and PCB design**.  
-- 💬 Ask me about **embedded systems, PID control, sensors, and rover electronics**.  
-- 📫 Reach me at **mraohrishikesh@gmail.com**  
-- 📄 LinkedIn: [Aarish Patel](https://www.linkedin.com/in/hrishikesh-m-rao-443a1b22a)
+- 👑 **Team Lead at Mars Rover Manipal**, guiding the team in rover development, robotics automation, and mission planning.  
+- 💡 Successfully developed **drive systems, robotic arm automation, and LoRa communication modules** for the rover.  
+- 🎯 Experienced in **advanced control systems, ROS2, robotics automation, and PCB design**.  
+- 💬 Ask me about **embedded systems, PID control, sensors, rover electronics, and team management**.  
+- 📫 Reach me at **aarishpatel.official@gmail.com**  
+- 📄 LinkedIn: [Aarish Patel](https://www.linkedin.com/in/aarish-patel-4843aa21a/)
 
 ---
 
 ## 🏆 Achievements
-- Participated in **International Rover Challenge 2025**, achieving top performance in autonomous navigation and payload handling.  
+- Led the **Mars Rover Manipal team** in the **International Rover Challenge 2025**, achieving top performance in autonomous navigation and payload handling.  
 - Programmed **drive and arm control systems in ESP-IDF** using FreeRTOS functionalities.  
 - Integrated **LoRa communication** for long-range rover control.  
 - Designed **PCBs, buck converters, motor driver circuits, and sensor interfacing modules**.  
-- Mentored juniors on robotics, embedded systems, and programming.  
+- Mentored team members on **robotics, embedded systems, and programming**.  
 - **1st Place — Reconnaissance and Delivery Operation (IRC)** for top rover navigation and payload handling.
 
 ---
@@ -40,10 +41,12 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
 
 ---
 
-## 📂 Projects & Work Experience
-| Project / Role | Description |
-|----------------|-------------|
-| **Electronics & Control Systems Trainee** | Mars Rover Manipal, Oct 2024 – Aug 2025: Designed PCBs, motor drivers, buck converters, and sensor interfaces. Learned rover electronics, embedded systems, and control systems. |
+## 📂 Roles & Work Experience
+| Role | Description |
+|------|-------------|
+| **Team Lead — Mars Rover Manipal** | Leading the Mars Rover Manipal team, guiding system design, rover electronics, control systems, and multi-auger and arm automation. Responsible for mentoring a team of juniors in **robotics, embedded systems, and electronics integration**, ensuring smooth collaboration between Science, Mechanical, and Electronics teams. |
+| **Electronics & Control Systems Engineer (ECS)** | Programmed **drive and arm control systems** in ESP-IDF using FreeRTOS, integrated **LoRa communication** for long-range rover control, and collaborated with science and mechanical teams to integrate **replaceable Science Modules** and enhance multi-auger system controls. |
+| **Electronics & Control Systems Trainee (ECS Trainee)** | Designed and assembled **buck converters, square wave generators, MOSFET bootstrapping circuits, and motor drivers**, developed a custom **MPU6050 sensor library** with Kalman Filter for sensor fusion, and worked on **teleoperation of a physical robotic arm through MoveIt2**. Learned rover electronics, sensors, embedded systems, and control systems. |
 | **Drive & Arm Control System** | Programmed 6-DOF robotic arm and rover drive system in ESP-IDF using FreeRTOS; implemented PID and motion planning. |
 | **LoRa Communication Module** | Integrated long-range telemetry and control for rover modules. |
 | **Robotic Arm Automation** | Teleoperation using MoveIt2 and inverse kinematics for pick-and-place and rotary switch operations. |
@@ -54,21 +57,9 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarishpatel&show_icons=true&locale=en" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarishpatel&layout=compact" alt="Top Languages"/>
-</p>
-
----
-
 ## 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/hrishikesh-m-rao-443a1b22a" target="_blank">
+  <a href="https://www.linkedin.com/in/aarish-patel-4843aa21a/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
