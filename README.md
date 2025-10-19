@@ -30,7 +30,6 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
 - **10th Place — European Rover Challenge** acheived 10th place among 100+ international teams
 
 ---
-
 ## 🛠️ Skills & Tools
 
 <p align="left">
@@ -40,17 +39,17 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/></a>
   <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.assembly-language.info/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" alt="assembly" width="40" height="40"/></a>
+  <a href="https://www.assembly-language.info/" target="_blank"><img src="https://img.icons8.com/color/512w/assembly.png" alt="assembly" width="40" height="40"/></a>
 </p>
 
 <p align="left">
   <!-- Technologies & Tools -->
   <b>Technologies & Tools:</b>
-  <a href="https://idf.espressif.com/" target="_blank"><img src="https://developer.espressif.com/sites/default/files/esp-idf-logo.png" alt="ESP-IDF" width="40" height="40"/></a>
-  <a href="https://github.com/ros-visualization/rviz" target="_blank"><img src="https://raw.githubusercontent.com/ros-visualization/rviz/master/rviz_logo.png" alt="RViz" width="40" height="40"/></a>
-  <a href="https://gazebosim.org/" target="_blank"><img src="https://gazebosim.org/images/gazebo_logo.png" alt="Gazebo" width="40" height="40"/></a>
-  <a href="https://ardupilot.org/" target="_blank"><img src="https://firmware.ardupilot.org/Tools/Logos/ArduPilot-Cleaned-Transparent.png" alt="ArduPilot" width="40" height="40"/></a>
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"><img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/logos/ltspice-cvq6xt0qtlczub5nrnoir.png" alt="LTSpice" width="40" height="40"/></a>
+  <a href="https://idf.espressif.com/" target="_blank"><img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="ESP-IDF" width="40" height="40"/></a>
+  <a href="https://github.com/ros-visualization/rviz" target="_blank"><img src="https://index.ros.org/assets/repo.png" alt="RViz" width="40" height="40"/></a>
+  <a href="https://gazebosim.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFzrH7OBL69HKdtiBr0FfvMhdId-JNhbO6og&s" alt="Gazebo" width="40" height="40"/></a>
+  <a href="https://ardupilot.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwEfzcc4ExBYlCMvBnYVac8arU-0bafB96A&s" alt="ArduPilot" width="40" height="40"/></a>
+  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwEfzcc4ExBYlCMvBnYVac8arU-0bafB96A&s" alt="LTSpice" width="40" height="40"/></a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" alt="ROS2" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
