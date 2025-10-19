@@ -10,22 +10,24 @@
 ## 🚀 About Me
 I am passionate about **robotics, embedded systems, and electronics**. I enjoy designing autonomous systems, programming control algorithms, and integrating sensors and hardware for robotic applications.  
 
-- 👑 **Team Lead at Mars Rover Manipal**, guiding the team in rover development, robotics automation, and mission planning.  
+- 👑 **Team Lead at Mars Rover Manipal**, guiding the team in rover development, Implementing and overseeing the Agile Framework.  
 - 💡 Successfully developed **drive systems, robotic arm automation, and LoRa communication modules** for the rover.  
 - 🎯 Experienced in **advanced control systems, ROS2, robotics automation, and PCB design**.  
-- 💬 Ask me about **embedded systems, PID control, sensors, rover electronics, and team management**.  
+- 💬 Ask me about **embedded systems, PID control, sensors and rover electronics**.  
 - 📫 Reach me at **aarishpatel.official@gmail.com**  
 - 📄 LinkedIn: [Aarish Patel](https://www.linkedin.com/in/aarish-patel-4843aa21a/)
 
 ---
 
 ## 🏆 Achievements
-- Led the **Mars Rover Manipal team** in the **International Rover Challenge 2025**, achieving top performance in autonomous navigation and payload handling.  
+- Led the **Mars Rover Manipal team** in the **International Rover Challenge 2025**, achieving top performance in autonomous navigation and payload handling tasks.  
 - Programmed **drive and arm control systems in ESP-IDF** using FreeRTOS functionalities.  
 - Integrated **LoRa communication** for long-range rover control.  
 - Designed **PCBs, buck converters, motor driver circuits, and sensor interfacing modules**.  
 - Mentored team members on **robotics, embedded systems, and programming**.  
 - **1st Place — Reconnaissance and Delivery Operation (IRC)** for top rover navigation and payload handling.
+- **1st Place — International Rover Challenge** acheived 1st place among 50+ international rover teams
+- **10th Place — European Rover Challenge** acheived 10th place among 100+ international teams
 
 ---
 
