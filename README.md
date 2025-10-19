@@ -63,6 +63,19 @@ I am passionate about **robotics, embedded systems, and electronics**. I enjoy d
 
 ---
 
+## 📂 Repositories
+
+Here are some of my important repositories related to robotics, embedded systems, and rover projects:
+
+| Repository | Description | Link |
+|------------|-------------|------|
+| **Mars Rover Manipal** | Complete Rover Electronics, Consists of Embedded Rover Codes, Final Rover PCBs and Tasks from teh Trainee Phase| [GitHub Repo](https://github.com/Aarish-Patel/MRM) |
+| **Rover Codes** | All iterations of Rover Codes Consisting of ESP-IDF with RTOS, Arduino IDE codes and Lora Integration | [GitHub Repo](https://github.com/Aarish-Patel/RoverCodes/tree/9a3d4cccbea75ca9afc4d3b2e0a9bb39ffeceaad) |
+| **Rover PCBs** | Designs for Modular PCB Stack developed for ERC 2025 with a panel | [GitHub Repo](https://github.com/Aarish-Patel/Rover_PCBs/tree/ad867d739c509e653c1c9a596ee093dbc11556e2) |
+| **Electronics and Control Systems Trainee Tasks** | Hardware, Embedded, Control Systems Simulations and Embedded Codes from the trainee stage of Electronics and Control Systems | [GitHub Repo](https://github.com/Aarish-Patel/mrm-ecs-tasks/tree/2fb4e2b47e2cc652530ab84413d3248d0d49c07d) |
+
+---
+
 ## 📂 Roles & Work Experience
 | Role | Description |
 |------|-------------|
