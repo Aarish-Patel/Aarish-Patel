@@ -1,4 +1,5 @@
-![Robotic Arm Animation](https://assets3.lottiefiles.com/packages/lf20_GVcFMopFsV.json)
+![Robotic Arm](assets/robotic-arm.gif)
+
 
 
 
