@@ -1,6 +1,6 @@
-![Robotic Arm](assets/robotic-arm.gif)
-
-
+<p align="center">
+  <img src="assets/robotic-arm.gif" alt="Robotic Arm" width="800"/>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Aarish Patel</h1>
