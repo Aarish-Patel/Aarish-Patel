@@ -1,3 +1,5 @@
+![Robotic Arm Animation](https://iconscout.com/lottie-animation/robotic-arm-animation_4056860)
+
 <h1 align="center">Hi 👋, I'm Aarish Patel</h1>
 <h3 align="center">Mechatronics Engineering Undergraduate | Team Lead at Mars Rover Manipal | Robotics & Electronics Enthusiast</h3>
 
