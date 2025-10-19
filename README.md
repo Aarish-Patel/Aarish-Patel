@@ -1,4 +1,5 @@
-![Robotic Arm GIF](https://www.flaticon.com/free-animated-icon/robotic-arm_11260831)
+![Robotic Arm Animation](https://assets3.lottiefiles.com/packages/lf20_GVcFMopFsV.json)
+
 
 
 <h1 align="center">Hi 👋, I'm Aarish Patel</h1>
